@@ -5,6 +5,11 @@ _site
 # 该文件不会被包含在生成的站点中。将它加入到你的 .gitignore 文件可能是一个好注意。
 .jekyll-metadata
 
+# 缓存
+.sass-cache/
+
 # 本地生成文件？
 Gemfile
 Gemfile.lock
+
+
