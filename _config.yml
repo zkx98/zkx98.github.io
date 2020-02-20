@@ -20,3 +20,19 @@ github_username:  zkx98
 
 # Build settings
 markdown: kramdown
+
+# comment
+# gitment
+comment_gitment_repo: zkx98.github.io
+comment_gitment_clientId: 3b6cb5029dbb4fb5763e
+comment_gitment_clientSecret: 91d7ce200fba46bda4eab546c2b58292a7ebd114
+
+# comment:
+#   gitment:
+#     enable: true
+#     owner: zkx98 # 必填项, 你的GitHub ID
+#     repo: zkx98.github.io # 必填项  你的存储评论的repo
+#     oauth:
+#       client_id: 3b6cb5029dbb4fb5763e # 必填项
+#       client_secret: 91d7ce200fba46bda4eab546c2b58292a7ebd114 # 必填项
+#       # redirect_uri: https//:zkx98.github.io
