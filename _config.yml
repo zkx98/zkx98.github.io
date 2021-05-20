@@ -36,3 +36,4 @@ comment_gitment_clientSecret: 91d7ce200fba46bda4eab546c2b58292a7ebd114
 #       client_id: 3b6cb5029dbb4fb5763e # 必填项
 #       client_secret: 91d7ce200fba46bda4eab546c2b58292a7ebd114 # 必填项
 #       # redirect_uri: https//:zkx98.github.io
+redcarpet: with_toc_data
